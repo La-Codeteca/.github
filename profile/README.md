@@ -1,8 +1,17 @@
+<img align="left" width="100" height="100" src="https://lacodeteca.com/assets/images/coffe.png">
+
 # La Codeteca
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Si+vas+a+hacerlo+más+de+dos+veces;Automatizalo.;)](https://git.io/typing-svg)
+
+
 ***
 
-[Visita la web]()
+[Visita la web](https://lacodeteca.com/)
+
+| Primera columna | Segunda columna | Tercera columna |
+| -- | -- | -- |
+|    |    |    |
 
 ## Lenguajes
 
