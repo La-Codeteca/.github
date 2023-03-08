@@ -11,13 +11,13 @@
 
 | Lenguajes | ML | Herramientas |
 | -- | -- | -- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   |  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  |    |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)   |    |
-| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  |  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  |    |
-| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)   |    |    |
+| ![Python](https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python&logoColor=ffdd54)   |  ![Pandas](https://img.shields.io/badge/pandas-%23121011.svg?style=for-the-badge&logo=pandas&logoColor=white)  |    |
+| ![PHP](https://img.shields.io/badge/php-%23121011.svg?style=for-the-badge&logo=php&logoColor=white)   | ![NumPy](https://img.shields.io/badge/numpy-%23121011.svg?style=for-the-badge&logo=numpy&logoColor=white)   |    |
+| ![Go](https://img.shields.io/badge/go-%23121011.svg?style=for-the-badge&logo=go&logoColor=white)  |  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23121011.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  |    |
+| ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white)   |    |    |
 | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)   |    |    |
-| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  |    |    |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  |    |    |
+| ![Firebase](https://img.shields.io/badge/firebase-%23121011.svg?style=for-the-badge&logo=firebase)  |    |    |
+| ![React](https://img.shields.io/badge/react-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  |    |    |
 
 
 ## Proyectos
