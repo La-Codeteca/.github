@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="https://lacodeteca.com/assets/images/coffe.png">
+<img align="left" width="150" height="100" src="https://lacodeteca.com/assets/images/coffe.png">
 
 # La Codeteca
 
@@ -22,6 +22,13 @@
 
 ## Proyectos
 
+⚙️ [youtube2codeteca](https://github.com/La-Codeteca/youtube2codeteca)
+
+⚙️ [gist2codeteca](https://github.com/La-Codeteca/gist2codeteca)
+
+🤖 [Notion-Bot]()
+
+🤖 [Precio-luz-bot]()
 
 ## Colabora
 
